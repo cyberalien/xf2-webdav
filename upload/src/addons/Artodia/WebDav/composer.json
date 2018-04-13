@@ -1,0 +1,13 @@
+{
+  "name": "artodia/webdav",
+  "description": "WebDav server for XenForo 2 styles",
+  "version": "0.0.1",
+  "type": "project",
+  "license": "MIT",
+  "homepage": "https://artodia.com/",
+  "require": {
+    "php": ">=5.4",
+    "sabre/dav": "*",
+    "cyberalien/xf-style-properties": "*"
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "legacy_addon_id": "",
+    "title": "Artodia: WebDav",
+    "description": "WebDav client for editing templates in editor of your choice.",
+    "version_id": 1,
+    "version_string": "0.0.1",
+    "dev": "",
+    "dev_url": "",
+    "faq_url": "",
+    "support_url": "https://www.artodia.com/forums/xenforo-support/",
+    "extra_urls": [],
+    "require": [],
+    "icon": "fa-code"
+}

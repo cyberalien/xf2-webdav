@@ -1,0 +1,7 @@
+.idea
+bin
+vendor
+node_modules
+npm-debug.log
+composer.lock
+composer.phar
