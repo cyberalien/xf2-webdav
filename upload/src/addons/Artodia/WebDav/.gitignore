@@ -5,3 +5,6 @@ node_modules
 npm-debug.log
 composer.lock
 composer.phar
+_build
+_releases
+hashes.json
